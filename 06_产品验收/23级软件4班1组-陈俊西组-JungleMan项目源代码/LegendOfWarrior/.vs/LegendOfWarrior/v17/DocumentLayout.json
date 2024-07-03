@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\unity\\project\\LegendOfWarrior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|h:\\unity\\project\\legendofwarrior\\assets\\scripts\\transition\\inlitialload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\inlitialload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\scriptableobject\\floateventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\floateventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\scriptableobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\player\\playcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\saveload\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\saveload\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\saveload\\datadefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\datadefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\saveload\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\saveload\\isavable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\isavable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\ui\\fadecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\fadecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\scriptableobject\\fadeevnetso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\fadeevnetso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\utilities\\cameracontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\cameracontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\general\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\scriptableobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\audio\\audiodefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\audiodefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\utilities\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\scriptableobject\\playauidoeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\playauidoeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\ui\\playerstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\beechasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\beechasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\scriptableobject\\charactereventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\charactereventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\beepatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\beepatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\boarchasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boarchasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\boarpatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boarpatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\snailpatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\snailpatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\enemy\\boar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|H:\\unity\\project\\LegendOfWarrior\\assets\\scripts\\player\\attackfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7E4D7-014F-4E00-A536-369821E4CF6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\attackfinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InlitialLoad.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Transition\\InlitialLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\InlitialLoad.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Transition\\InlitialLoad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\InlitialLoad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:00:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloatEventSO.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:02:54.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:05:19.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoidEventSO.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:28:17.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioManager.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:24:26.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:48:21.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayController.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\PlayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayController.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\PlayController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:11:18.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\DataManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:10:40.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:39:05.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Data.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\Data.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:18:26.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataDefination.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\DataDefination.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\DataDefination.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\DataDefination.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\DataDefination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:21:27.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\SavePoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:10:08.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISavable.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\ISavable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\ISavable.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\SaveLoad\\ISavable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveLoad\\ISavable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:08:40.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sign.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\Sign.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sign.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\Sign.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Sign.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIA1wC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:41:34.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:23:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:47:56.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeleportPoint.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:33:40.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\General\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Chest.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\General\\Chest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Chest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:09:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FadeCanvas.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:46:25.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FadeEvnetSO.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\FadeEvnetSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FadeEvnetSO.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\FadeEvnetSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\FadeEvnetSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:56:06.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CameraControll.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Utilities\\CameraControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\CameraControll.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Utilities\\CameraControll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\CameraControll.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:40.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameSceneSO.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:14:18.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:08:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AudioDefination.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:31:00.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayAuidoEventSO.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\PlayAuidoEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\PlayAuidoEventSO.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\PlayAuidoEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\PlayAuidoEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:26:53.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:33:46.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerStateBar.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\PlayerStateBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerStateBar.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\UI\\PlayerStateBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerStateBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:33:29.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:49:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PhysicsCheck.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:02:55.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BeePatrolState.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:40:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Bee.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\Bee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Bee.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\Bee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Bee.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:45:38.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BeeChaseState.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:57:12.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CharacterEventSO.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:41:00.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SnailPatrolState.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:46:23.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BoarPatrolState.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:07:04.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BoarChaseState.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:20:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Boar.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\Boar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boar.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\Boar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:33:38.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BaseState.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Enemy\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:04:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AttackFinish.cs",
+              "DocumentMoniker": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\AttackFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AttackFinish.cs",
+              "ToolTip": "H:\\unity\\project\\LegendOfWarrior\\Assets\\Scripts\\Player\\AttackFinish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\AttackFinish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:59:02.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
